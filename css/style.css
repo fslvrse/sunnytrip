@@ -2,8 +2,16 @@ body{
     background-color: #FCF75E;
 }
 #firstpage{
-    color: white;
+    color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
     
+}
+nav{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: #1e1e1e;
+            padding: 5px 3px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }

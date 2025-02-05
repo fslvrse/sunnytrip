@@ -105,3 +105,33 @@ input {
     opacity: 0.8;
     color: black;
 }
+ 
+/*info page styling*/
+
+.content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+h1, h2 {
+    color: #007BFF;
+}
+
+p {
+    line-height: 1.6;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+

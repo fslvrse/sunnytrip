@@ -15,13 +15,12 @@ body{
     width: 90%;
     margin-top: 80px; /* Adjust this value if needed */
 }
-h1{
+h1 {
     color: #352208;
-
 }
-.searching{
-    margin-bottom: 20px;
 
+.searching {
+    margin-bottom: 20px;
 }
 input {
     padding: 10px;

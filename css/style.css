@@ -41,7 +41,7 @@ input {
   button:hover {
     background-color: #7e22ce;
 }
-.weatherinfo{
+.weatherInfo{
     background-color: white;
     padding: 20px;
     border-radius: 8px;

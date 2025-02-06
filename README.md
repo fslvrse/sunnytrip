@@ -4,7 +4,7 @@ Welcome to **SunnyTrip**! This project is hosted at [SunnyTrip Live Demo](https:
 
 ## Project Overview
 
-SunnyTrip is a web-based application designed to [briefly describe the purpose of your app, e.g., "help users plan trips easily with interactive tools and guides."].
+SunnyTrip is a web-based application.
 
 ## Features
 

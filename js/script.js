@@ -23,7 +23,7 @@ async function getWeather() {
   }
 
   try {
-    // Show loading state
+    // Show loading state aslo did some reaserch here
     const weatherInfo = document.getElementById("weatherInfo");
     weatherInfo.classList.remove("hidden");
     weatherInfo.classList.add("loading");
